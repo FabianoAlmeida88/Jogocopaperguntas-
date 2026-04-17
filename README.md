@@ -1,5 +1,4 @@
 # Jogocopaperguntas-
-Jogo de perguntas e respostas da 
 
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -14,7 +13,8 @@ Jogo de perguntas e respostas da
     <meta name="version" content="2.1.2">
     
     <!-- Google AdSense -->
-8     crossorigin="anonymous"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5555223308090320534"
+     crossorigin="anonymous"></script>
     
     <style>
         * {
